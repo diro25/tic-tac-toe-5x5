@@ -12,7 +12,7 @@ strengthen object-oriented programming and game logic design.
 - Clean OOP structure
 
 ## 🛠️ Built With
-- Java
+- Javas
 
 ## 📂 Project Structure
 ## 💻 Getting Started
